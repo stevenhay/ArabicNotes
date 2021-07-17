@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "da9b45717849e7d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfbbdc7d7736bfb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diacritical Marks (Harakat).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52ae27f2bf02c1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ce01be99133386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d90a208ecb0c2e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7e381c591baea6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a7ed97e6faadeee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a398c1b8f6a8cd0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123d45f0200da7c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diacritical Marks (Harakat).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfbbdc7d7736bfb5",
+  "lastOpenFiles": [
+    "Diacritical Marks (Harakat).md",
+    "Untitled.md"
+  ]
+}
