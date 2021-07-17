@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adjectives.md",
+            "file": "Verbs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adjectives.md",
+            "file": "Verbs.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adjectives.md",
+                "file": "Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "id": "ac2adf0376554992",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -110,10 +110,10 @@
   },
   "active": "cfbbdc7d7736bfb5",
   "lastOpenFiles": [
-    "Adjectives.md",
     "Verbs.md",
     "Nouns.md",
     "Diacritical Marks (Harakat).md",
+    "Adjectives.md",
     "Untitled.md"
   ]
 }
