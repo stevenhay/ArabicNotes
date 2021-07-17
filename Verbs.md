@@ -7,7 +7,7 @@ Tenses in Arabic are divided into three main types:
 
 Present tense verbs always begin with one of the letters: ا (Alif), ت (Taa), ي (Ya), or ن (Nun).
 
-## Verbs With Others
+## Object Pronouns
 
 |          | Suffix | Example | Translit. |
 | -------- | ------ | ------- | --------- |
@@ -97,7 +97,7 @@ For all other conjugations, the و is simply dropped.
 
 ### Rule: Verbs ending with و
 
-I never finished this part :(
+TODO
 
 ### Continuous Actions
 To express that a verb was happening in the past, a special article 'كان' for males, or 'كانت' for females, must be added before the same continuation article as in the present tense ('عم') which comes before the **present** tense verb.
@@ -112,4 +112,4 @@ To express that a verb was happening in the past, a special article 'كان' for
 	هي
 	<span style="color: green;">كانت</span>
 	عم تشربي 
-</p>	
+</p>
