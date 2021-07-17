@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs.md",
+            "file": "Adjectives.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs.md",
+            "file": "Adjectives.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbs.md",
+                "file": "Adjectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +105,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "cfbbdc7d7736bfb5",
   "lastOpenFiles": [
+    "Adjectives.md",
     "Verbs.md",
+    "Nouns.md",
     "Diacritical Marks (Harakat).md",
     "Untitled.md"
   ]
