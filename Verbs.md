@@ -9,7 +9,7 @@ Present tense verbs always begin with one of the letters: ا (Alif), ت (Taa), �
 
 ## Verbs With Others
 
-| With ... | Suffix | Example | Translit. |
+|          | Suffix | Example | Translit. |
 | -------- | ------ | ------- | --------- |
 | Me       | -ni    |         |           |
 | You (m)  | -ak    |         |           |
@@ -29,11 +29,11 @@ blablabla ...
 | I        | a-     | _N/A_  | أقرأ           | **a**qra       |
 | You (m)* | t-     | _N/A_  | تقرأ           | **ta**qra      |
 | You (f)  | t-     | -y     | تقرئي          | **ta**qra**y** |
-| You (pl) | t-     | -w     | تقرؤ           |                |
+| You (pl) | t-     | -w     |                |                |
 | He       | y-     | _N/A_  | يقرأ           | **ya**qra      |
 | She*     | t-     | _N/A_  | تقرأ           | **ta**qra      |
 | We       | na-    | _N/A_  | نقرأ           | **na**qra      |
-| They     | y-     | -w     | يقرؤ           |                |
+| They     | y-     | -w     |                |                |
 
 \* Notice how 'She' and  'You (m)' share the same prefix and lack of suffix. While it's possible to omit the pronouns in most cases when speaking in Arabic, when talking about 'She' or 'You (m)', it's best to add the pronoun to avoid ambiguity.
 
