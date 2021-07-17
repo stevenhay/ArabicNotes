@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diacritical Marks (Harakat).md",
+            "file": "Verbs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diacritical Marks (Harakat).md",
+            "file": "Verbs.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diacritical Marks (Harakat).md",
+                "file": "Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,16 +91,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ac2adf0376554992",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cfbbdc7d7736bfb5",
   "lastOpenFiles": [
+    "Verbs.md",
     "Diacritical Marks (Harakat).md",
     "Untitled.md"
   ]
