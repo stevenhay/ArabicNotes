@@ -26,16 +26,18 @@ blablabla ...
 
 | Pronoun  | Prefix | Suffix | Example (read) | Translit.      |
 | -------- | ------ | ------ | -------------- | -------------- |
-| I        | a-     | _N/A_  | أقرا           | **a**qra       |
-| You (m)* | t-     | _N/A_  | تقرا           | **ta**qra      |
+| I        | a-     | _N/A_  | أقرأ           | **a**qra       |
+| You (m)* | t-     | _N/A_  | تقرأ           | **ta**qra      |
 | You (f)  | t-     | -y     | تقرئي          | **ta**qra**y** |
-| You (pl) | t-     | -w     |                |                | 
+| You (pl) | t-     | -w     | تقرؤ           |                |
 | He       | y-     | _N/A_  | يقرأ           | **ya**qra      |
-| She*     | t-     | _N/A_  | تقرا           | **ta**qra      |
+| She*     | t-     | _N/A_  | تقرأ           | **ta**qra      |
 | We       | na-    | _N/A_  | نقرأ           | **na**qra      |
-| They     | y-     | -w     |                |                |
+| They     | y-     | -w     | يقرؤ           |                |
 
 \* Notice how 'She' and  'You (m)' share the same prefix and lack of suffix. While it's possible to omit the pronouns in most cases when speaking in Arabic, when talking about 'She' or 'You (m)', it's best to add the pronoun to avoid ambiguity.
+
+# يقرأو
 
 ### Rule: Verbs ending with ي
 When the verb ends with ي and required conjugation is either 'They' or 'You (pl)', then the ي must be dropped before conjugation. 
