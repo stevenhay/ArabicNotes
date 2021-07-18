@@ -1,3 +1,4 @@
+<span style="font-size:12px;">[Arabic](01_Arabic.md) -> [Verbs](Verbs.md) -> Future Tense Verbs</span>
 <h1 style="text-align:center">Future Tense Verbs</h1>
 
 For a verb to be happening in the future, a special article 'راح' must be added before the conjugated present tense verb.

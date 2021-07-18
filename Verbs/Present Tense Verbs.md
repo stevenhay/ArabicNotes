@@ -1,3 +1,5 @@
+<span style="font-size:12px;">[Arabic](01_Arabic.md) -> [Verbs](Verbs.md) -> Present Tense Verbs</span>
+
 <h1 style="text-align:center">Present Tense Verbs</h1>
 <hr>
 <h2 style="text-align:center">Conjugation Table</h2>
@@ -12,6 +14,8 @@
 | She*     | t-     | _N/A_  | تقرأ           | **ta**qra      |
 | We       | na-    | _N/A_  | نقرأ           | **na**qra      |
 | They     | y-     | -w     | يقرأو          | **ya**qra**w** |
+
+\* Notice how 'She' and 'You (m)' share the same prefix and lack of suffix. While it's possible to omit the pronouns in most cases when speaking in Arabic, when talking about 'She' or 'You (m)', it's best to add the pronoun to avoid ambiguity.
 <hr>
 
 <h2 style="text-align:center">Rule: Verbs ending with ي</h2>

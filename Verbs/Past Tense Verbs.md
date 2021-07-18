@@ -1,3 +1,4 @@
+<span style="font-size:12px;">[Arabic](01_Arabic.md) -> [Verbs](Verbs.md) -> Past Tense Verbs</span>
 <h1 style="text-align:center">Past Tense Verbs</h1>
 <hr>
 <h2 style="text-align:center">Conjugation Table</h2>

@@ -1,3 +1,4 @@
+<span style="font-size:12px;">[Arabic](01_Arabic.md) -> Verbs</span>
 <h1 style="text-align:center">Verbs</h1>
 
 <h2 style="text-align:center">Table of Contents</h2>
