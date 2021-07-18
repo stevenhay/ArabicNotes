@@ -1,0 +1,1 @@
+<h2 style="text-align:center">Future Tense Adjectives<a name="the_N_is_A_structure"></a></h2>

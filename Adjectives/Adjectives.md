@@ -4,7 +4,10 @@
 <h2 style="text-align:center">Table of Contents</h2>
 
 1. [Introduction](#introduction)
-2. [A N Structure](#adj_noun_structure)
+2. ['A N' Structure](#A_N_structure)
+3. ['The A N' Structure](#the_A_N_structure)
+4. ['The N is A' Structure](#the_N_is_A_structure)
+5. ['Future Tense Adjectives'](#future_tense_adjectives)
 
 <hr>
 
@@ -22,20 +25,24 @@ For the sake of simplicity, 'A' will be used for the placeholder marking for a p
 
 <hr>
 
-<h2 style="text-align:center">'A N' Structure<a name="adj_noun_structure"></a></h2>
+<h2 style="text-align:center">'A N' Structure<a name="object_pronouns"></a></h2>
 
-The 'A N' structure (not to be confused with the ['The A N'](#the_adj_noun_structure) structure) is one of the most simple structures. Both the adjective and noun are non-definite and the adjective simply comes before the noun.
-
-Example:
-<p style="line-height: 1px; text-align:center; font-size:2.1em;">بيت كبير</p>
-<span style="text-align:center;">Big House</span>
+[['A N' Structure]]
 
 <hr>
 
-<h2 style="text-align:center">'The A N' Structure<a name="the_adj_noun_structure"></a></h2>
+<h2 style="text-align:center">'The A N' Structure<a name="object_pronouns"></a></h2>
 
-<p style="text-align:center; font-size:2.1em;"><span style="color: green;">ال</span>بيت <span style="color: green;">ال</span>كبير</p>
+[['The A N' Structure]]
 
 <hr>
 
-<h2 style="text-align:center">'The N is A' Structure<a name="an_structure"></a></h2>
+<h2 style="text-align:center">'The N is A' Structure<a name="object_pronouns"></a></h2>
+
+[['The N is A' Structure]]
+
+<hr>
+
+<h2 style="text-align:center">Object Pronouns<a name="object_pronouns"></a></h2>
+
+[[Future Tense Adjectives]]

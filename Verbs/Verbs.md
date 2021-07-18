@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2 style="text-align:center">Introduction To Verbs<a name="introduction"></a></h2>
+<h2 style="text-align:center">Introduction To Verbs</h2>
 
 Tenses in Arabic are divided into three main types:
 - Past
