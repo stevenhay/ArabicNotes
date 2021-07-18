@@ -47,7 +47,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis ut dia
 | nun   | ن           | نـ      | ـنـ    | ـن    | “n” in “now”                                                   | Sun      |
 | haa   | هـ          | هـ      | ـهـ    | ـه/ه  | “h” in “hat”                                                   | Moon     |
 | waw   | و           |         |        | ـو    | “w” in “win”                                                   | Moon     |
-| yaa   | ي           | يـ      | ـيـ    | ـي    | “y” in “yes”                                                   | Moon     | 
+| yaa   | ي           | يـ      | ـيـ    | ـي    | “y” in “yes”                                                   | Moon     |
+| Hamza | ء           |         |        |       |                                                                | Moon     |
 
 <hr>
 
@@ -60,5 +61,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis ut dia
 <h2 style="text-align:center">Harakat<a name="harakat"></a></h2>
 
 See [[Diacritical Marks (Harakat)]]
-
- 
