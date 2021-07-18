@@ -24,9 +24,11 @@ For the sake of simplicity, 'A' will be used for the placeholder marking for a p
 
 <h2 style="text-align:center">'A N' Structure<a name="adj_noun_structure"></a></h2>
 
-The 'A N' structure (not to be confused with the ['The A N'](#the_adj_noun_structure) structure) is one of the most simple structures. Both the adjective and noun 
+The 'A N' structure (not to be confused with the ['The A N'](#the_adj_noun_structure) structure) is one of the most simple structures. Both the adjective and noun are non-definite and the adjective simply comes before the noun.
 
-<p style="text-align:center; font-size:2.1em;">بيت كبير</p>
+Example:
+<p style="line-height: 1px; text-align:center; font-size:2.1em;">بيت كبير</p>
+<span style="text-align:center;">Big House</span>
 
 <hr>
 
