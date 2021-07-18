@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Arabic.md",
+            "file": "Alphabet/Diacritical Marks (Harakat).md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Arabic.md",
+            "file": "Alphabet/Diacritical Marks (Harakat).md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Arabic.md",
+                "file": "Alphabet/Diacritical Marks (Harakat).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f4a28ad96e3853f",
+  "active": "1f6aeab93a705d41",
   "lastOpenFiles": [
+    "Alphabet/Diacritical Marks (Harakat).md",
     "01_Arabic.md",
     "Pronouns.md",
     "Adjectives/'A N' Structure.md",
@@ -118,7 +119,6 @@
     "Adjectives/Adjectives.md",
     "Adjectives/Future Tense Adjectives.md",
     "Alphabet/Alphabet.md",
-    "Alphabet/Diacritical Marks (Harakat).md",
     "Nouns/Nouns.md"
   ]
 }
