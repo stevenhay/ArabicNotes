@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis ut dia
 
 <hr>
 
-<h2 style="text-align:center">Letters<a name="harakat"></a></h2>
+<h2 style="text-align:center">Letters<a name="letters"></a></h2>
 
 | Name  | Independent | Initial | Medial | Final | Sound                                                          | Sun/Moon |
 | ----- | ----------- | ------- | ------ | ----- | -------------------------------------------------------------- | -------- |
