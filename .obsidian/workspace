@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs.md",
+            "file": "Verbs/Verbs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs.md",
+            "file": "Verbs/Verbs.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbs.md",
+                "file": "Verbs/Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +110,15 @@
   },
   "active": "cfbbdc7d7736bfb5",
   "lastOpenFiles": [
+    "Verbs/Verbs.md",
+    "Verbs/Future Tense Verbs.md",
+    "Verbs/Object Pronouns.md",
+    "Verbs/Past Tense Verbs.md",
+    "Verbs/Present Tense Verbs.md",
+    "Untitled.md",
     "Verbs.md",
-    "Nouns.md",
-    "Diacritical Marks (Harakat).md",
-    "Adjectives.md",
-    "Untitled.md"
+    "Past Tense Verbs.md",
+    "Future Tense Verbs.md",
+    "Present Tense Verbs.md"
   ]
 }
