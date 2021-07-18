@@ -1,4 +1,4 @@
-<span style="font-size:15px;">links [Alphabet](Alphabet.md)</span>
+<span style="font-size:12px;">[Arabic](01_Arabic.md) -> [Alphabet](Alphabet.md) -> Harakat</span>
 <h1 style="text-align:center">Harakat</h1>
 
 <h2>

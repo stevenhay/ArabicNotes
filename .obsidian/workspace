@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs/Object Pronouns.md",
+            "file": "Adjectives/Adjectives.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs/Object Pronouns.md",
+            "file": "Adjectives/Adjectives.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbs/Object Pronouns.md",
+                "file": "Adjectives/Adjectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "fc4e96f43d9ef312",
   "lastOpenFiles": [
-    "Verbs/Object Pronouns.md",
-    "Verbs/Past Tense Verbs.md",
-    "Verbs/Present Tense Verbs.md",
-    "Verbs/Verbs.md",
-    "Verbs/Future Tense Verbs.md",
     "Adjectives/Adjectives.md",
+    "Adjectives/Adjectives_old.md",
+    "Nouns/Nouns.md",
+    "Adjectives/Untitled.md",
     "01_Arabic.md",
     "Alphabet/Alphabet.md",
-    "Alphabet/Diacritical Marks (Harakat).md",
-    "01 Arabic.md"
+    "Nouns.md",
+    "Verbs/Present Tense Verbs.md",
+    "Verbs/Verbs.md",
+    "Alphabet/Diacritical Marks (Harakat).md"
   ]
 }

@@ -1,3 +1,4 @@
+<span style="font-size:12px;">Arabic</span>
 <h1 style="text-align:center">Arabic Studies</h1>
 
 <h2 style="text-align:center">Table of Contents</h2>
