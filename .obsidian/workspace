@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs/Present Tense Verbs.md",
+            "file": "01_Arabic.md",
             "mode": "source"
           }
         },
-        "group": "8d1bb6a97ee63b91"
+        "group": "26ecd910f8230e4e"
       },
       {
-        "id": "95c371410effe794",
+        "id": "1f6aeab93a705d41",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs/Present Tense Verbs.md",
+            "file": "01_Arabic.md",
             "mode": "preview"
           }
         },
-        "group": "8d1bb6a97ee63b91"
+        "group": "26ecd910f8230e4e"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbs/Present Tense Verbs.md",
+                "file": "01_Arabic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "6f4a28ad96e3853f",
   "lastOpenFiles": [
-    "Verbs/Present Tense Verbs.md",
-    "Verbs/Past Tense Verbs.md",
-    "Verbs/Object Pronouns.md",
-    "Verbs/Future Tense Verbs.md",
+    "01_Arabic.md",
+    "Pronouns.md",
     "Adjectives/'A N' Structure.md",
     "Adjectives/'The A N' Structure.md",
     "Adjectives/'The N is A' Structure.md",
     "Adjectives/Adjectives.md",
-    "Nouns/Possessiveness.md",
-    "Nouns/Posessiveness.md"
+    "Adjectives/Future Tense Adjectives.md",
+    "Alphabet/Alphabet.md",
+    "Alphabet/Diacritical Marks (Harakat).md",
+    "Nouns/Nouns.md"
   ]
 }

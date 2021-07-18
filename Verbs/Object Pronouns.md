@@ -11,7 +11,7 @@
 | He       | -oo    |         |           |
 | She      | -ha    |         |           |
 | Us       | -na    |         |           |
-| Them     | -hum   |         |           |
+| They     | -hum   |         |           |
 
 blablabla ...
 

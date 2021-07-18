@@ -6,13 +6,13 @@
 
 | Pronoun  | Prefix | Suffix | Example (read) | Translit.      |
 | -------- | ------ | ------ | -------------- | -------------- |
-| I        | a-     |   | أقرأ           | **a**qra       |
-| You (m)* | t-     | _  | تقرأ           | **ta**qra      |
+| I        | a-     |        | أقرأ           | **a**qra       |
+| You (m)* | t-     |        | تقرأ           | **ta**qra      |
 | You (f)  | t-     | -y     | تقرئي          | **ta**qra**y** |
 | You (pl) | t-     | -w     | تقرأو          | **ta**qra**w** |
-| He       | y-     | _N/A_  | يقرأ           | **ya**qra      |
-| She*     | t-     | _N/A_  | تقرأ           | **ta**qra      |
-| We       | na-    | _N/A_  | نقرأ           | **na**qra      |
+| He       | y-     |        | يقرأ           | **ya**qra      |
+| She*     | t-     |        | تقرأ           | **ta**qra      |
+| We       | na-    |        | نقرأ           | **na**qra      |
 | They     | y-     | -w     | يقرأو          | **ya**qra**w** |
 
 \* Notice how 'She' and 'You (m)' share the same prefix and lack of suffix. While it's possible to omit the pronouns in most cases when speaking in Arabic, when talking about 'She' or 'You (m)', it's best to add the pronoun to avoid ambiguity.

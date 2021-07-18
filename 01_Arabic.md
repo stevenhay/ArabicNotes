@@ -5,8 +5,9 @@
 
 1. [Introduction](#introduction)
 2. [Alphabet](#alphabet)
-3. [Verbs](#verbs)
-4. [Adjectives](#adjectives)
+3. [Pronouns](#pronouns)
+4. [Verbs](#verbs)
+5. [Adjectives](#adjectives)
 
 <hr>
 
@@ -19,6 +20,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis ut dia
 <h2 style="text-align:center">Alphabet<a name="alphabet"></a></h2>
 
 See [[Alphabet]]
+
+<hr>
+
+<h2 style="text-align:center">Pronouns<a name="pronouns"></a></h2>
+
+See [[Pronouns]]
 
 <hr>
 
