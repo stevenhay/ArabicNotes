@@ -3,11 +3,11 @@
 
 <h2 style="text-align:center">Table of Contents</h2>
 
-1. [Introduction To Verbs](#introduction)
-2. [Object Pronouns](#object_pronouns)
-3. [Present Tense Verbs](#present_tense_verbs)
-4. [Future Tense Verbs](#future_tense_verbs)
-5. [Past Tense Verbs](#past_tense_verbs)
+1. [Introduction To Verbs](#)
+2. [Object Pronouns](#)
+3. [Present Tense Verbs](#)
+4. [Future Tense Verbs](#)
+5. [Past Tense Verbs](#)
 
 <hr>
 

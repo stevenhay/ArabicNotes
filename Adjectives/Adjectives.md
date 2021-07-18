@@ -3,11 +3,11 @@
 
 <h2 style="text-align:center">Table of Contents</h2>
 
-1. [Introduction](#introduction)
-2. ['A N' Structure](#A_N_structure)
-3. ['The A N' Structure](#the_A_N_structure)
-4. ['The N is A' Structure](#the_N_is_A_structure)
-5. ['Future Tense Adjectives'](#future_tense_adjectives)
+1. [Introduction](#)
+2. ['A N' Structure](#)
+3. ['The A N' Structure](#)
+4. ['The N is A' Structure](#)
+5. ['Future Tense Adjectives'](#)
 
 <hr>
 
@@ -43,6 +43,6 @@ For the sake of simplicity, 'A' will be used for the placeholder marking for a p
 
 <hr>
 
-<h2 style="text-align:center">Object Pronouns<a name="object_pronouns"></a></h2>
+<h2 style="text-align:center">'Future Tense Adjectives'<a name="object_pronouns"></a></h2>
 
 [[Future Tense Adjectives]]

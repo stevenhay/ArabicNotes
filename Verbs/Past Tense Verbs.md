@@ -3,16 +3,16 @@
 <hr>
 <h2 style="text-align:center">Conjugation Table</h2>
 
-| Pronoun  | Prefix | Suffix | Example | Translit. |
-| -------- | ------ | ------ | ------- | --------- |
-| I        | _N/A_  | -t     |         |           |
-| You (m)  | _N/A_  | -t     |         |           |
-| You (f)  | _N/A_  | -ti    |         |           |
-| You (pl) | _N/A_  | -tu    |         |           |
-| He       | _N/A_  | _N/A_  |         |           |
-| She      | _N/A_  | -et    |         |           |
-| We       | _N/A_  | -na    |         |           |
-| They     | _N/A_  | -u     |         |           |
+| Pronoun  | Suffix | Example | Translit. |
+| -------- | ------ | ------- | --------- |
+| I        | -t     |         |           |
+| You (m)  | -t     |         |           |
+| You (f)  | -ti    |         |           |
+| You (pl) | -tu    |         |           |
+| He       |        |         |           |
+| She      | -et    |         |           |
+| We       | -na    |         |           |
+| They     | -u     |         |           |
 <hr>
 
 

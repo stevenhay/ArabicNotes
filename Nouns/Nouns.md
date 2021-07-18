@@ -3,7 +3,7 @@
 
 <h2 style="text-align:center">Table of Contents</h2>
 
-1. [Introduction](#introduction)
+1. [Introduction](#)
 
 <hr>
 

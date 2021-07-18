@@ -1,4 +1,7 @@
-<h2 style="text-align:center">'A N' Structure<a name="A_N_structure"></a></h2>
+<span style="font-size:12px;">[Arabic](01_Arabic.md) -> [Adjectives](Adjectives.md) -> 'A N' Structure</span>
+
+<h1 style="text-align:center">'A N' Structure</h1>
+<hr>
 
 The 'A N' structure (not to be confused with the ['The A N'](#the_adj_noun_structure) structure) is one of the most simple structures. Both the adjective and noun are **non-definite** and the adjective simply comes after the noun.
 

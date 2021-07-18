@@ -3,8 +3,8 @@
 
 <h2 style="text-align:center">Table of Contents</h2>
 
-1. [Introduction](#introduction)
-2. [Harakat](#harakat)
+1. [Introduction](#)
+2. [Harakat](#)
 
 <hr>
 

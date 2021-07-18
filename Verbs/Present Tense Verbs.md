@@ -6,8 +6,8 @@
 
 | Pronoun  | Prefix | Suffix | Example (read) | Translit.      |
 | -------- | ------ | ------ | -------------- | -------------- |
-| I        | a-     | _N/A_  | أقرأ           | **a**qra       |
-| You (m)* | t-     | _N/A_  | تقرأ           | **ta**qra      |
+| I        | a-     |   | أقرأ           | **a**qra       |
+| You (m)* | t-     | _  | تقرأ           | **ta**qra      |
 | You (f)  | t-     | -y     | تقرئي          | **ta**qra**y** |
 | You (pl) | t-     | -w     | تقرأو          | **ta**qra**w** |
 | He       | y-     | _N/A_  | يقرأ           | **ya**qra      |
