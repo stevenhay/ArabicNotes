@@ -9,14 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verbs/Verbs.md",
-            "mode": "source"
+            "file": "01 Arabic.md",
+            "mode": "preview"
           }
-        },
-        "group": "52ee9a2ab581f6b7"
+        }
       },
       {
-        "id": "84bb61e8c93626c1",
+        "id": "ccf3fb34310ddc68",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,8 +23,18 @@
             "file": "Verbs/Verbs.md",
             "mode": "preview"
           }
-        },
-        "group": "52ee9a2ab581f6b7"
+        }
+      },
+      {
+        "id": "d1b6b028e7985330",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Verbs/Present Tense Verbs.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbs/Verbs.md",
+                "file": "Verbs/Present Tense Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cfbbdc7d7736bfb5",
+  "active": "d1b6b028e7985330",
   "lastOpenFiles": [
+    "Verbs/Present Tense Verbs.md",
     "Verbs/Verbs.md",
+    "01 Arabic.md",
+    "Alphabet.md",
+    "Diacritical Marks (Harakat).md",
+    "Adjectives.md",
+    "Nouns.md",
     "Verbs/Future Tense Verbs.md",
     "Verbs/Object Pronouns.md",
-    "Verbs/Past Tense Verbs.md",
-    "Verbs/Present Tense Verbs.md",
-    "Untitled.md",
-    "Verbs.md",
-    "Past Tense Verbs.md",
-    "Future Tense Verbs.md",
-    "Present Tense Verbs.md"
+    "Verbs/Past Tense Verbs.md"
   ]
 }

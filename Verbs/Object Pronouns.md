@@ -1,5 +1,6 @@
 <h1 style="text-align:center">Object Pronouns</h1>
 
+
 |          | Suffix | Example | Translit. |
 | -------- | ------ | ------- | --------- |
 | Me       | -ni    |         |           |
@@ -12,3 +13,5 @@
 | Them     | -hum   |         |           |
 
 blablabla ...
+
+<hr>
