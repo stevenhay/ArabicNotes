@@ -42,7 +42,7 @@ For all other conjugations, the و is simply dropped.
 </p>	
 
 <hr>
-<h2 style="text-align:center">Rule: Verbs ending with و</h2>
+<h2 style="text-align:center">Rule: Verbs ending with ي</h2>
 
 TODO
 
